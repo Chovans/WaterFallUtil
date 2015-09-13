@@ -24,3 +24,8 @@ swift2.0 瀑布流展示
 ###4.自定义部分：<br />
 
     在WaterFallLayout.swift文件中，有一个constants结构体，里面的内容可自定义，详情请看代码
+
+#效果图
+
+
+![image](https://github.com/Chovans/WaterFallUtil/blob/master/show.jpg)
