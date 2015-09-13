@@ -14,6 +14,7 @@
 		CEAB0E321BA5643D00273632 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEAB0E301BA5643D00273632 /* LaunchScreen.storyboard */; };
 		CEAB0E3D1BA5643D00273632 /* WaterFallUtilTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAB0E3C1BA5643D00273632 /* WaterFallUtilTests.swift */; };
 		CEAB0E481BA5643D00273632 /* WaterFallUtilUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAB0E471BA5643D00273632 /* WaterFallUtilUITests.swift */; };
+		CEAB0E571BA5647A00273632 /* WaterFallLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAB0E561BA5647A00273632 /* WaterFallLayout.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CEAB0E431BA5643D00273632 /* WaterFallUtilUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WaterFallUtilUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEAB0E471BA5643D00273632 /* WaterFallUtilUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterFallUtilUITests.swift; sourceTree = "<group>"; };
 		CEAB0E491BA5643D00273632 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEAB0E561BA5647A00273632 /* WaterFallLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterFallLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				CEAB0E2E1BA5643D00273632 /* Assets.xcassets */,
 				CEAB0E301BA5643D00273632 /* LaunchScreen.storyboard */,
 				CEAB0E331BA5643D00273632 /* Info.plist */,
+				CEAB0E561BA5647A00273632 /* WaterFallLayout.swift */,
 			);
 			path = WaterFallUtil;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEAB0E571BA5647A00273632 /* WaterFallLayout.swift in Sources */,
 				CEAB0E2A1BA5643D00273632 /* ViewController.swift in Sources */,
 				CEAB0E281BA5643D00273632 /* AppDelegate.swift in Sources */,
 			);
